@@ -1,0 +1,30 @@
+*{
+	/*outline: 1px red solid;/**/
+	margin: auto;
+	padding: auto;
+}
+
+body{
+	background: /*#CECECE*/#bed3fe;
+	position: relative;
+}
+
+nav{
+	background: black;
+}
+
+nav a{
+	text-transform: /*capitalize;*/uppercase;
+	/*margin: 8px 15px;*/
+	margin: 0px;
+	padding: 8px 15px;
+	color: #2aace0;
+	border-left: 2px solid #2d3192;
+	border-right: 2px solid #2d3192;
+
+}
+
+#logo{
+	width: 50px;
+	height: auto;
+}
